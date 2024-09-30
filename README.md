@@ -1,4 +1,4 @@
-# Documentações da Intelligenza
+# Projeto - Documentações da Intelligenza
 
 ## Contexto
 A Intelligenza é uma empresa fictícia criada como parte de um projeto que estou desenvolvendo. Este repositório contém exemplos de diversos tipos de documentações técnicas, fornecendo modelos de base para cada tipo de documento. Cada arquivo demonstra como documentar eficazmente diferentes aspectos de um projeto de software.
