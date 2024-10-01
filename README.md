@@ -13,7 +13,7 @@ Apesar de ser uma empresa fictícia, a Intelligenza representa os valores e a mi
   A [Documentação Funcional](https://github.com/LeticiaCastelo/modelos-documentacoes-tw/blob/main/documenta%C3%A7%C3%A3o-funcional.md) detalha os requisitos funcionais do sistema, descrevendo como ele   deve se comportar do ponto de vista do usuário. Inclui descrições de funcionalidades, fluxos de trabalho e casos de uso.<br/>
 
 ### 2. Tutorial
-O Tutorial oferece um passo a passo detalhado sobre como realizar tarefas específicas usando o sistema ou software. É voltado para usuários que precisam de uma orientação prática.
+O [Tutorial](https://github.com/LeticiaCastelo/modelos-documentacoes-tw/blob/main/tutorial.md) oferece um passo a passo detalhado sobre como realizar tarefas específicas usando o sistema ou software. É voltado para usuários que precisam de uma orientação prática.
 
 ### 3. Guia How-to (How-to Guide)
 O Guia How-to é um conjunto de instruções para realizar tarefas específicas e resolver problemas comuns, voltado para usuários que precisam de uma orientação direta e objetiva.
